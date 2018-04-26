@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+void PrintMax(int a,int b);
 
 int main()
 {
